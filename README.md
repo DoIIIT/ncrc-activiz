@@ -1,4 +1,4 @@
-NCRC Activiz
+HighWire
 =================
 
 This is an Arduino LED visualization project which will be installed at
